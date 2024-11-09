@@ -1,0 +1,23 @@
+:where(.css-dev-only-do-not-override-amq5gd).ant-select:not(.ant-select-disabled):not(.ant-select-customize-input):not(
+    .ant-pagination-size-changer
+  ):hover
+  .ant-select-selector {
+  box-shadow: none;
+}
+.ant-select-focused:where(.css-dev-only-do-not-override-amq5gd).ant-select:not(.ant-select-disabled):not(
+    .ant-select-customize-input
+  ):not(.ant-pagination-size-changer)
+  .ant-select-selector {
+  box-shadow: none;
+}
+.ant-select-selection-search {
+  input {
+    box-shadow: none;
+  }
+}
+:where(.css-dev-only-do-not-override-amq5gd).ant-btn-primary {
+  background-color: #1677ff !important;
+}
+:where(.css-dev-only-do-not-override-19gw05y).ant-btn-primary {
+  background-color: #1677ff !important;
+}

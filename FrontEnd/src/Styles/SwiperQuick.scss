@@ -1,0 +1,13 @@
+.name .swiper-pagination-bullet {
+  background-color: rgb(211, 82, 82);
+  width: 40px; /* Thiết lập chiều rộng */
+  height: 2px; /* Thiết lập chiều cao */
+  border-radius: 0;
+}
+
+.border-gradient {
+  border: 2px solid transparent;
+  background:
+    linear-gradient(white, white) padding-box padding-box,
+    linear-gradient(90deg, rgb(255, 212, 0) 0%, rgb(199, 49, 48) 50.52%, rgb(102, 54, 149) 99.61%) border-box border-box;
+}

@@ -1,0 +1,12 @@
+export const STATUS_ORDER = {
+  ALL: 0,
+  WAIT_FOR_CONFIRMATION: 1,
+  WAIT_FOR_GETTING: 2,
+  IN_PROGRESS: 3,
+  DELIVERED: 4,
+  CANCELLED: 5,
+}
+export const STATUS_PURCHASE = {
+  OUTCART: 0,
+  INCART: 1,
+}
